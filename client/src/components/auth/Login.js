@@ -84,7 +84,6 @@ const Login = (props) => {
         <span className='text-primary' style={{ textDecoration: "underline" }}>
           <Link to='/register'>Register</Link>
         </span>{" "}
-        here
       </h3>
     </div>
   );
